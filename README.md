@@ -29,8 +29,6 @@ Supervised & Unsupervised ML • Time Series Forecasting • NLP • Model Optim
 ## 📌 Featured Projects  
 *(More coming soon — stay tuned!)*  
 
-## 📌 Featured Projects  
-
 - [**SPAR Expansion Zurich Dashboard**](https://github.com/aiyham86/spar-expansion-zurich)  
   Streamlit dashboard for scoring Zurich districts for new SPAR store openings using population forecasts & competition data.  
   **🔗 [Live Demo](https://zuriscope-spar-expansion.streamlit.app/)**  
