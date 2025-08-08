@@ -29,8 +29,16 @@ Supervised & Unsupervised ML • Time Series Forecasting • NLP • Model Optim
 ## 📌 Featured Projects  
 *(More coming soon — stay tuned!)*  
 
-- [**SPAR Expansion Zurich Dashboard**](https://github.com/aiyham86/spar-expansion-zurich) – Streamlit dashboard for scoring Zurich districts for new SPAR store openings using population forecasts & competition data.  
-- [**Volcanoes Data Explorer**](https://github.com/aiyham86/volcanoes-streamlit) – Interactive Streamlit app to explore global volcano data.  
+## 📌 Featured Projects  
+
+- [**SPAR Expansion Zurich Dashboard**](https://github.com/aiyham86/spar-expansion-zurich)  
+  Streamlit dashboard for scoring Zurich districts for new SPAR store openings using population forecasts & competition data.  
+  **🔗 [Live Demo](https://zuriscope-spar-expansion.streamlit.app/)**  
+
+- [**Volcanoes Data Explorer**](https://github.com/aiyham86/volcanoes-streamlit)  
+  Interactive Streamlit app to explore global volcano data.  
+  **🔗 [Live Demo](https://zuriscope-spar-expansion.streamlit.app/)**
+ 
 
 ---
 
