@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Aiyham Alkatranji  
 
-<!--
-**aiyham86/aiyham86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Analyst @ Simex Trading AG** | Data Science, Machine Learning & AI Graduate | Turning Data Into Actionable Insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+With a **strong foundation in Banking & Finance** and a **recent graduation from a Data Science, ML & AI bootcamp**, I bring a unique blend of business acumen and technical expertise.  
+I’m passionate about **transforming raw data into insights that drive strategic decisions**, whether in trading, supply chain, or beyond.  
+
+---
+
+## 🛠 Skills & Tools
+
+**Languages & Libraries:**  
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` • `Keras`
+
+**Data Analytics & Visualization:**  
+`Power BI` • `SQL` • `Plotly` • `Excel` • `Streamlit`
+
+**Machine Learning & AI:**  
+Supervised & Unsupervised ML • Time Series Forecasting • NLP • Model Optimization • Explainability (SHAP/LIME)
+
+**Other Tools:**  
+`Git` • `GitHub Actions` • `Docker` • `API Integration` • `Jupyter Notebooks`
+
+---
+
+## 📌 Featured Projects  
+*(More coming soon — stay tuned!)*  
+
+- [**SPAR Expansion Zurich Dashboard**](https://github.com/aiyham86/spar-expansion-zurich) – Streamlit dashboard for scoring Zurich districts for new SPAR store openings using population forecasts & competition data.  
+- [**Volcanoes Data Explorer**](https://github.com/aiyham86/volcanoes-streamlit) – Interactive Streamlit app to explore global volcano data.  
+
+---
+
+## 📈 Current Goals
+- Build a **portfolio of high-impact data projects** showcasing end-to-end workflows — from data sourcing to deployment.  
+- Explore advanced **forecasting and optimization models** for real-world business problems.  
+- Contribute to **open-source projects** in analytics and AI.  
+
+---
+
+## 📬 Let's Connect
+- **Email:** [aiyham86@gmail.com](mailto:aiyham86@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/akatranji](https://www.linkedin.com/in/akatranji)  
+
+---
+
+⭐ _If you find my work interesting, consider starring my repositories!_
